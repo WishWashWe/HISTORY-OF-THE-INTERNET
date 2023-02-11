@@ -1,11 +1,33 @@
-# Obsidian Notes
+## **The Pre-History of the Internet**
+- From tablets to scrolls. From scrolls to books. Alongside Civilization, humanity in turn has been changing and evolving the way they communicate and learn. This section of our course is about the time before the internet and the evolution of information storage and retrieval technologies.
 
-Publish your public notes with MkDocs
+#### Readings:
 
-## Hello World!
+1.[[The "Amherst Method" - Origins of the Dewey Decimal Classification Scheme]]
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+2.[[From Clay Tablets to Web- Journey of Library Catalogue]] 
 
-The folders in `/docs` appear as the main sections on the navigation bar.
+3\. [[Introduction- Media as Historical Subjects]] 
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+4.\ [[As We May Think]]
+
+5.\ [[The Garden and the Stream- A Technopastoral]]
+
+#### Lecture Notes:
+
+[[Week 1]]
+
+[[Week 2]]
+
+[[Book Lab]]
+
+#### Thoughts & Additional Information:
+
+[[History of the Book]]
+
+[[How the Printing Press Changed the World]]
+
+[[The Garden and Stream and how it relates to Oral and Visual Cultures]]
+
+[[ As We May Think and How it relates to The Garden and Stream]]
+
