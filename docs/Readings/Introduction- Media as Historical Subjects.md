@@ -1,9 +1,9 @@
-Author: Lisa Gitelman
-Date: 2006
-Publication: MIT Press
-Link: http://web.mit.edu/uricchio/Public/television/Gitelman.pdf
+- Author: Lisa Gitelman
+- Date: 2006
+- Publication: MIT Press
+- Link: http://web.mit.edu/uricchio/Public/television/Gitelman.pdf
 
-**This relates to [[Week 1]]] in class notes
+**This relates to [[Week 1]] in class notes
 
 ## Summary & Key Takeaways
 -   This book examines the ways that media—and particularly new media—are experienced and studied as historical subjects

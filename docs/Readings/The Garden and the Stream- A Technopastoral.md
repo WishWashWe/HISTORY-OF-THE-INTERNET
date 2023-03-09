@@ -1,14 +1,14 @@
-Link: [https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)
-Author: Caulfield, Mike
-Date: 2015
-Publication: Hapgood
-
+- Author: Caulfield, Mike
+- Date: 2015
+- Publication: Hapgood
+- Link: [https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/) Tags: #InformationTechnology #earlytechnology #inventors 
+---
 **This aritcle relates to [[As We May Think]] and Walter Ong's Book (2002) Orality and Literacy. 
 
 **To see thse connetions go to [[The Garden and Stream and how it relates to Oral and Visual Cultures]] & [[As We May Think and How it relates to The Garden and Stream]]
 
+--- 
 ## Summary & Keynotes
-
 
 **What is A Garden and Stream?
 - The “Garden” is like classic literature. It is things are meant to persist. It’s evergreen content,relevant and not recent. On the web, this can be a wiki or informational sources.

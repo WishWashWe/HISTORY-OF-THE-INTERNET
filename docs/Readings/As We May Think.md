@@ -1,8 +1,10 @@
-Author: Vannevar Bush
-Date: 1943
-Publication: The Atlantic
-Link: https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
 
+- Author: Vannevar Bush
+- Date: 1943
+- Publication: The Atlantic
+- Link: https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
+---
+Tags: #earlytechnology #InformationTechnology 
 **This article is refernced in [[The Garden and the Stream- A Technopastoral]]. To learn about how it is refrenced go to: [[As We May Think and How it relates to The Garden and Stream]]
 
 ## Key takeaways & Summary
@@ -12,7 +14,7 @@ Link: https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/30388
 	- Vannevar Bush was an American engineer, inventor and science administrator, who during World War II headed the U.S. Office of Scientific Research and Development, through which almost all wartime military
 	-   In 1931, **Vannevar Bush** completed work on his most significant invention, the **_differential analyzer_**, a precursor to the modern computer
 
-- To learn more about Vannevar Bush and his life clik here: https://en.wikipedia.org/wiki/Vannevar_Bush
+- To learn more about Vannevar Bush and his life click here: https://en.wikipedia.org/wiki/Vannevar_Bush
 
 
 ##### What is the improtance of this Article?
